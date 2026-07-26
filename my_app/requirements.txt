@@ -6,3 +6,4 @@ matplotlib
 feedparser
 openpyxl
 streamlit-autorefresh
+beautifulsoup4
