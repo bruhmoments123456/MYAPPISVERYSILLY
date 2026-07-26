@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+feedparser
+openpyxl
+streamlit-autorefresh
